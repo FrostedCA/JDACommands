@@ -1,5 +1,7 @@
 # JDACommands
-Easy commands integration to JDA.
+
+### Easy commands integration to JDA.
+### Current version: 0.1.0
 
 ## Get started with JDACommands
 - Step 1: Download this repo.
