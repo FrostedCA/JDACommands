@@ -16,7 +16,7 @@
 ```java
 JDACommands jdaCommands = new JDACommands(*prefix*);
 ```
--*Create new class implementing ICommandExecutor*
+- *Create new class implementing ICommandExecutor*
 *Main class*
 ```java
 jdaCommands.registerCommand(new *YourClass*());
