@@ -4,6 +4,7 @@
 ### *Current version:* **0.1.0**
 
 ## Get started with JDACommands
+
 - Step 1: Download this repo.
 - Step 2: Create a zip archive and add this folder structure: "ca/tristan/jdacommands/"
 - Step 3: Copy the java classes in the target folder.
@@ -12,12 +13,15 @@
 - Done.
 
 ## How to use
-*Main class*
+
+### *Main class*
 ```java
 JDACommands jdaCommands = new JDACommands(*prefix*);
 ```
-- *Create new class implementing ICommandExecutor*
-- *Main class*
+
+***Create new class implementing ICommandExecutor***
+
+### *Main class*
 ```java
 jdaCommands.registerCommand(new *YourClass*());
 
